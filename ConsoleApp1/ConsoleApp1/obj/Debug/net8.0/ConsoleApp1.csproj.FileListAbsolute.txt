@@ -12,3 +12,4 @@ C:\Users\hassa\repos\test-repo\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\C
 C:\Users\hassa\repos\test-repo\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 C:\Users\hassa\repos\test-repo\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\hassa\repos\test-repo\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\hassa\repos\test-repo\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
